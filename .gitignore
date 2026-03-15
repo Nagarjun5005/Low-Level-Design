@@ -1,0 +1,6 @@
+cd C:\2026\lld
+echo # IntelliJ > .gitignore
+echo .idea/ >> .gitignore
+echo *.iml >> .gitignore
+echo # Compiled output >> .gitignore
+echo out/ >> .gitignore
